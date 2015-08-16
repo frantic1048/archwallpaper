@@ -1,6 +1,11 @@
 # archwallpaper
-Arch Linux Chinese Community Activity Repo _(:з」∠)_
 
-#Credits
+Arch Linux 中文社区活动，Arch Linux 壁纸集 (ID : A1)
 
-**Liberation Serif** font by *Ascender Corp.*
+# 工具
+
+**Inkscape**：矢量图形的绘制。
+
+# 鸣谢
+
+*Ascender Corp.* 的 **Liberation Serif** 字体。
