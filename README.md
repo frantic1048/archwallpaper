@@ -8,4 +8,5 @@ Arch Linux 中文社区活动，Arch Linux 壁纸集 (ID : A1)
 
 # 鸣谢
 
-*Ascender Corp.* 的 **Liberation Serif** 字体。
+**Liberation Serif** 字体
+**文泉驿正黑** 字体
