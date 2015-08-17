@@ -17,3 +17,7 @@ Arch Linux 中文社区活动，Arch Linux 壁纸集 (ID : A1)
 ## ARCH IN THE SHELL
 
 ![arch_in_the_shell.1920x1080.png](arch_in_the_shell.1920x1080.png)
+
+## ARCH IN THE SHELL (Night)
+
+![arch_in_the_shell_night.1920x1080.png](arch_in_the_shell_night.1920x1080.png)
