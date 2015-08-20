@@ -2,9 +2,11 @@
 
 Arch Linux 中文社区活动，Arch Linux 壁纸集 (ID : A1)
 
+壁纸相关的源文件（Krita `.kra`, Inkscape `.svg`）均在此仓库下，有爱自取。
+
 # 工具
 
-- **Inkscape**：矢量绘制。
+- **Inkscape**：矢量图形绘制，导出。
 - **Krita**：后处理。
 
 # 鸣谢
