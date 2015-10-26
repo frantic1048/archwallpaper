@@ -1,5 +1,7 @@
 # archwallpaper
 
+[![Join the chat at https://gitter.im/frantic1048/archwallpaper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frantic1048/archwallpaper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Arch Linux 中文社区活动，Arch Linux 壁纸集 (ID : A1)
 
 壁纸相关的源文件（Krita `.kra`, Inkscape `.svg`）均在此仓库下，有爱自取。
